@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lexa-B
-- 👀 I’m interested in Tissue Engineering and 3D printing, especially bioprinting of volumetric organs.
-- 🌱 I’m currently learning Solidworks, Typescript, C, & LabVIEW.
-- 💞️ I’m happy to collaborate on anything related to biomedical engineering or 3D printing.
+- 👀 I’m interested in AI, Tissue Engineering, and 3D bioprinting.
+- 🌱 I’m currently learning GenAI development, specically LangChain-based RAG-capable agents.
+- 💞️ I’m happy to collaborate on anything related to AI, biomedical engineering, or 3D printing.
 
 <!---
 Lexa-B/Lexa-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
