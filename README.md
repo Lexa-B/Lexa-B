@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lexa-B
+- 👋 Hi, I’m Lexa!
 - 👀 I’m interested in AI, Tissue Engineering, and 3D bioprinting.
 - 🌱 I’m currently learning GenAI development, specically LangChain-based RAG-capable agents.
 - 💞️ I’m happy to collaborate on anything related to AI, biomedical engineering, or 3D printing.
