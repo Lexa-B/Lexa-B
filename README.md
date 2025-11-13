@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Lexa!
-- 🇯🇵 I'm in the process of looking for a Job in Japan that will sponsor my Highly Skilled Professionals' Visa... so please let me know if you know any recruiters!! 
-- 👀 I’m interested in AI, Especially GenAI and ML... but I also love Tissue Engineering and 3D bioprinting.
-- 🌱 I’m currently learning GenAI development, specifically focusing on Large Concept Models (LCMs), which are a modality of language-agnostic AI that operate in a higher-abstraction concept space, as opposed to the concretion (low abstraction) focus of word-based token prediction employed by LLMs.
-- 🧠 I'm also interested in LangChain-based RAG-capable agents. My long-term project is an LLM inference-generated mathematical representation of the complex web of emotionality that occurs in conversations between all participants.
-- 💞️ I’m happy to collaborate on anything related to AI, ML, 3D bioprinting, or Tissue Engineering!!
+- 🇯🇵 I'm an AI reserch intern at Sakana AI in Tokyo
+- 👀 I’m obsessed with AI, Especially GenAI and ML and how internal world models form... but I also love Tissue Engineering and 3D bioprinting.
+- 🌱 I’m currently researching exciting new forms of GenAI... check back for more later.
+- 🤖 My GenAI development background focused on Large Concept Models (LCMs), which are a modality of language-agnostic AI that operate in a higher-abstraction concept space, as opposed to the concretion (low abstraction) focus of word-based token prediction employed by LLMs.
 
 <!---
 Lexa-B/Lexa-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
